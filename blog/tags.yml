@@ -1,19 +1,24 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+idea:
+  label: 想法
+  permalink: /idea
+  description: 突然出现的想法
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+daily:
+  label: 日常
+  permalink: /daily
+  description: 日常琐事记录
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+# hello:
+#   label: Hello
+#   permalink: /hello
+#   description: Hello tag description
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+# docusaurus:
+#   label: Docusaurus
+#   permalink: /docusaurus
+#   description: Docusaurus tag description
+
+# hola:
+#   label: Hola
+#   permalink: /hola
+#   description: Hola tag description
